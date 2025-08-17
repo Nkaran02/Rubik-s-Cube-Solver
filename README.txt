@@ -1,15 +1,22 @@
-Hey there, reviewer!  
+# Rubik's Cube 3D Solver
 
-Thanks for taking the time to check out my submission.  
-This folder contains my solution for the AeroHack 2025 Rubik's Cube challenge. 
+An interactive 3D Rubik's Cube simulator and solver built with Python and VPython.  
+The project allows scrambling, manual rotations, solution display, and automated solving using the Kociemba two-phase algorithm.
 
-Inside, you'll find :-
+---
 
-- Final_Presentation.pptx
-- Code/ → Contains the full working code in a single Python file.
-- Screenshots/ → Some pictures and a video showing how the cube looks during and after solving.
+## Features
+- 3D Rubik’s Cube visualization using VPython  
+- Interactive UI buttons for cube face rotations  
+- Scramble function for random shuffling  
+- Solution display using the Kociemba algorithm  
+- Automated step-by-step solving animation  
+- Smooth real-time cube rotations  
 
-P.S. I kept things simple and clean. Hope you enjoy going through it 🙂 , peace ✌️
+---
 
-Thank youuuuuuu,  
-Karan N
+## Tech Stack
+- Python 3  
+- VPython (3D graphics)  
+- NumPy (mathematical operations)  
+- Kociemba (optimal solver algorithm)  
